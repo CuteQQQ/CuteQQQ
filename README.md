@@ -1,5 +1,5 @@
 
-<img src="https://github.com/CuteQQQ/CuteQQQ/blob/main/Cat think.jpg?raw=true" width="100">
+<img src="https://github.com/CuteQQQ/CuteQQQ/blob/main/Cat think.jpg?raw=true" width="1000">
 
 
 ![HI THERE👋](https://github.com/cutebear0123/cutebear0123/blob/main/hello%20world.gif?raw=true "Hi there ")
