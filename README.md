@@ -8,4 +8,6 @@
 # GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuteQQQ)](https://github.com/CuteQQQ)
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteQQQ&layout=compact&hide=html)](https://github.com/CuteQQQ)
+
