@@ -7,5 +7,4 @@
 [![](https://github.com/CuteQQQ/CuteQQQ/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ)
 
 
- 
-</sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup>我是超極爛的新手</sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup></sup>
+ #################################################我是超極爛的新手
