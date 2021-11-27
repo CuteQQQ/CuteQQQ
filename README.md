@@ -1,12 +1,12 @@
-## Hi!
+# Hi!
 
 (o'w'o)
 
-## Bye!
+# Bye!
 
 (o'v'o)
 
-### OwO
+## OwO
 
 OuO
 
