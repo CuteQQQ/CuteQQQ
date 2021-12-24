@@ -12,6 +12,4 @@
 
 # Snow 
 
-[![](https://github.com/CuteQQQ/CuteQQQ/blob/main/snow.png?raw=true)](https://github.com/CuteQQQ/Snow)
-
-[![](https://github.com/CuteQQQ/CuteQQQ/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ)
+[![](https://github.com/CuteQQQ/CuteQQQ/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ/Snow)
