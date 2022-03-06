@@ -14,4 +14,4 @@
 
 [![](https://github.com/CuteQQQ/CuteQQQ/blob/main/mona-whisper.gif?raw=true)](https://github.com/CuteQQQ/Snow)
 
-Web:https://web.cuteqbes.repl.co
+Web:https://qbes-web.netlify.app
