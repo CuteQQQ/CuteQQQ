@@ -2,10 +2,6 @@
 
 (o'w'o)
 
-# Bye!
-
-(o'v'o)
-
 ## OwO
 
 ``OuO``
